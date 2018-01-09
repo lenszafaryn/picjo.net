@@ -1,0 +1,2 @@
+# picjo.net
+static website
